@@ -1,0 +1,10 @@
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\NCRYPTER.exe.config
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\NCRYPTER.exe
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\NCRYPTER.pdb
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.AssemblyReference.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.Properties.Resources.resources
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.GenerateResource.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.CoreCompileInputs.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.exe
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.pdb

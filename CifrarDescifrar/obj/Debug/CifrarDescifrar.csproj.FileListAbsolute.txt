@@ -1,0 +1,40 @@
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe.config
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.pdb
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csprojAssemblyReference.cache
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Properties.Resources.resources
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.GenerateResource.cache
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.CoreCompileInputs.cache
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.exe
+C:\Users\quoti\source\repos\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.pdb
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe.config
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.pdb
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csprojAssemblyReference.cache
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Properties.Resources.resources
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.GenerateResource.cache
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.exe
+D:\DESARROLLOS\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.pdb
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe.config
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\bin\Debug\CifrarDescifrar.pdb
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.AssemblyReference.cache
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.Properties.Resources.resources
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.GenerateResource.cache
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.CoreCompileInputs.cache
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.exe
+D:\DESARROLLOS QUOTI\CifrarDescifrar\CifrarDescifrar\obj\Debug\CifrarDescifrar.pdb
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.AssemblyReference.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.Properties.Resources.resources
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.GenerateResource.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.csproj.CoreCompileInputs.cache
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.exe
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\CifrarDescifrar.pdb
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe.config
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\CifrarDescifrar.exe
+E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\bin\Debug\CifrarDescifrar.pdb
