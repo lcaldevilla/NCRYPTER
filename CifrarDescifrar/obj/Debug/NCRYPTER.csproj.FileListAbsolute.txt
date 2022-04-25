@@ -8,3 +8,14 @@ E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.Gen
 E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.CoreCompileInputs.cache
 E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.exe
 E:\QUOTI\DESARROLLOS\CRYPT DECRYPT\CifrarDescifrar\obj\Debug\NCRYPTER.pdb
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\bin\Debug\NCRYPTER.exe.config
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\bin\Debug\NCRYPTER.exe
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\bin\Debug\NCRYPTER.pdb
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.AssemblyReference.cache
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.SuggestedBindingRedirects.cache
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\CifrarDescifrar.Form1.resources
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.Properties.Resources.resources
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.GenerateResource.cache
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.csproj.CoreCompileInputs.cache
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.exe
+E:\DESARROLLOS\NCRYPTER\CifrarDescifrar\obj\Debug\NCRYPTER.pdb
